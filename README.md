@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![kwangjunechoi7
-'s github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/kwangjunechoi7
-/github-readme-stats)
+[![kwangjunechoi7's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/kwangjunechoi7/github-readme-stats)
+
+
 📫    [kwmme797@gmail.com](kwmme797@gmail.com)
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![CKJ's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/kwangjunechoi7/github-readme-stats)
+[![CKJ's github stats](https://github-readme-stats.vercel.app/api?username=kwangjunechoi7)](https://github.com/kwangjunechoi7/github-readme-stats)
 
 
 📫    [kwmme797@gmail.com](kwmme797@gmail.com)

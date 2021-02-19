@@ -2,6 +2,8 @@
 
 [![CKJ's github stats](https://github-readme-stats.vercel.app/api?username=kwangjunechoi7&show_icons=true)](https://github.com/kwangjunechoi7/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangjunechoi7)](https://github.com/kwangjunechoi7/github-readme-stats)
+
 ## Interest Areas
 `Machine Reading Comprehension`, `Recommendation System`, `Meta-Learning`, `Explainable AI`
 

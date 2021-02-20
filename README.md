@@ -1,4 +1,4 @@
-👋  Hi there 
+👋  Hi there, I'm June!
 
 [![CKJ's github stats](https://github-readme-stats.vercel.app/api?username=kwangjunechoi7&show_icons=true)](https://github.com/kwangjunechoi7/github-readme-stats)
 
@@ -12,9 +12,11 @@
 `Smart City`, 
 `Urban Data Integration for Advanced Applications`
 
+  
+  
 <h3 align="center"> 📚  Technology Stack 🛠️ </h3>
 <p align="center"> Techs that I've used at least once </p>
-
+&nbsp 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white"/></a>&nbsp 
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> 📫   How to reach me </h3>
+<h3 align="center"> 📫   How to reach me ✉️</h3>
 <p align="center">
   <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>

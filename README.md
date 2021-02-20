@@ -6,10 +6,11 @@
 ## Interest Areas
 `Machine Reading Comprehension`,
 `Text Summarization`, 
-`Recommendation System`, 
+`Generative Adversarial Network`,
+`Neural Architecture Search`,
 `Explainable AI`, 
 `Meta-Learning`, 
-`Smart City`, 
+`SmartCity`, 
 `Urban Data Integration for Advanced Applications`
 
   

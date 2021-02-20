@@ -4,7 +4,13 @@
 
 
 ## Interest Areas
-`Machine Reading Comprehension`, `Recommendation System`, `Meta-Learning`, `Explainable AI`
+`Machine Reading Comprehension`,
+`Text Summarization`, 
+`Recommendation System`, 
+`Explainable AI`, 
+`Meta-Learning`, 
+`Smart City`, 
+`Urban Data Integration for Advanced Applications`
 
 <h3 align="center"> 📚  Technology Stack 🛠️ </h3>
 <p align="center"> Techs that I've used at least once </p>

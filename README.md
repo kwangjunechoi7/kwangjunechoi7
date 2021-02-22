@@ -6,7 +6,7 @@
 ## Interest Areas
 `Machine Reading Comprehension`,
 `Text Summarization`, 
-`Generative Adversarial Network`,
+`Generative Adversarial Networks`,
 `Neural Architecture Search`,
 `Explainable AI`, 
 `Meta-Learning`, 

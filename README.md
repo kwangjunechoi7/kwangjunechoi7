@@ -31,10 +31,10 @@
 
 <h3 align="center"> 📫   How to reach me ✉️</h3>
 <p align="center">
-  <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwmme797@gmail.com"/></a>&nbsp 
+  <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=vhttps://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"/></a>
 </p>
 <br>
-
 
 <!--
 **kwangjunechoi7/kwangjunechoi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

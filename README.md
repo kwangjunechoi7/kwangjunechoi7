@@ -32,7 +32,7 @@
 <h3 align="center"> 📫   How to reach me ✉️</h3>
 <p align="center">
   <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwmme797@gmail.com"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"/></a>
+  <a href="https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"/></a>
 </p>
 <br>
 
@@ -49,18 +49,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
-
-<p align="center">
-I'm KwangJune Choi, a growing developer. 🌱 <br>
-</p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwangjunechoi7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangjunechoi7)](https://github.com/kwangjunechoi7/github-readme-stats)
 
 -->

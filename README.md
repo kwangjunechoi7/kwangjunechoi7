@@ -10,9 +10,8 @@
 `Neural Architecture Search`,
 `Explainable AI`, 
 `Meta-Learning`, 
-`SmartCity`, 
-`Urban Data Integration for Advanced Applications`
-`Reinforcement Learning`,
+`Urban Data Integration for Advanced Applications`,
+`Reinforcement Learning`
 
   
   

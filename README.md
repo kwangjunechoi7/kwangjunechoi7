@@ -12,6 +12,7 @@
 `Meta-Learning`, 
 `SmartCity`, 
 `Urban Data Integration for Advanced Applications`
+`Reinforcement Learning`,
 
   
   

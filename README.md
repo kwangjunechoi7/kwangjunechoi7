@@ -40,7 +40,7 @@
 <h3 align="center"> 📫   How to reach me ✉️</h3>
 <p align="center">
   <a href="mailto:kwmme797@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwmme797@gmail.com"/></a>&nbsp 
-  <a href="https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"/></a>
+<!--   <a href="https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Main-Page-2d19489b30cb4b5d8673ecbdee11f76f"/></a> -->
 </p>
 <br>
 
